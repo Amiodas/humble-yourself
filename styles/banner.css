@@ -1,0 +1,23 @@
+.banner {
+    background-image: url('/images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 691px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.banner-title {
+    font-size: 65px;
+    /* width: 850px; */
+    color: #fff;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.banner-description {
+    font-size: 18px;
+    color: #fff;
+}
