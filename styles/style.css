@@ -177,3 +177,18 @@
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+
+/* footer section style */
+
+footer {
+    background: #121212;
+    color: #aaa;
+    text-align: center;
+    padding: 50px;
+}
+.footer-title {
+    color: tomato;
+    font-size: 40px;
+    font-family: 'Lobster Two', cursive;
+    margin-bottom: 25px; 
+}
