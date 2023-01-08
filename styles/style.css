@@ -134,3 +134,46 @@
     border-radius: 5px;
 }
 
+/* Subscriber section style */
+.subscribe-container {
+    margin-top: 130px;
+    margin-bottom: 130px;
+    text-align: center;
+}
+
+.subscribe-title {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.subscribe-description {
+    font-size: 20px;
+    color: #757575;
+    padding: 0px 350px;
+}
+.subscriber-email-container {
+    margin: 50px 250px;
+    padding:80px 80px; 
+    background: #fcf1ea;
+    display: flex;
+    justify-content: center;
+}
+.subscriber-email {
+    border: 0;
+    background: #ddd;
+    padding: 16px 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 300px;
+    
+}
+.subscriber-email-submit-button {
+    border: 0;
+    background: tomato;
+    color: #fff;
+    padding: 16px 32px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
